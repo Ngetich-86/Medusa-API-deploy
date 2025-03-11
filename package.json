@@ -1,5 +1,5 @@
 {
-  "name": "medusa-b2b-starter",
+  "name": "medusa-b2b-starter test",
   "version": "0.0.1",
   "description": "A starter for Medusa B2B projects.",
   "author": "Medusa (https://medusajs.com)",
@@ -23,7 +23,7 @@
     "test:unit": "TEST_TYPE=unit NODE_OPTIONS=--experimental-vm-modules jest --silent --runInBand --forceExit"
   },
   "dependencies": {
-    "@medusajs/admin-sdk": "2.4.0",
+    "@medusajs/admin-sdk": "2.4.0", 
     "@medusajs/cli": "2.4.0",
     "@medusajs/framework": "2.4.0",
     "@medusajs/js-sdk": "2.4.0",
